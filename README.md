@@ -28,8 +28,8 @@ Print the results and end the program.
 ```
 '''
 Program to find L and U matrix using LU decomposition.
-Developed by: Santhosh U
-RegisterNumber: 22009224
+Developed by: NAVIN KUMAR J
+RegisterNumber: 22009212
 '''
 import numpy as np
 from scipy.linalg import lu
